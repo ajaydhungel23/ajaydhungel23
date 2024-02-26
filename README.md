@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+!+I+am+Ajay+Dhungel)](https://git.io/typing-svg)
 <!--
 **ajaydhungel23/ajaydhungel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
